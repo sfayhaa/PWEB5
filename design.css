@@ -1,0 +1,64 @@
+body {
+    height: auto;
+    width: auto;
+}
+
+header img {
+    height: 7rem;
+    width: 7rem;
+    margin: 15px 50px 20px 50px;
+}
+
+h2 {
+    margin: 1em auto;
+    font-weight: bold !important;
+    color: #025185 !important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+    padding: 2em;
+    margin: 5em auto;
+    width: 700px;
+    background: #7db2d8;
+    border-radius: 3px;
+}
+
+.form-content {
+    margin: 10px;
+}
+
+form {
+    width: 600px;
+    height: auto;
+}
+
+input[text] {
+    width: 600px;
+    height: 35px;
+}
+
+label {
+    margin: 5px;
+    font-weight: bold !important;
+}
+
+.btn {
+    background: #0067ac !important;
+    background-color: rgb(164, 194, 224) !important;
+    margin-bottom: 3em;
+}
+
+ul {
+    list-style: none;
+    float: right !important;
+    margin: 30px;
+    padding: 50px;
+}
+
+a {
+    text-decoration: none !important;
+    color: #0067ac !important;
+    font-weight: bold !important;
+    font-size: 20px !important;
+}
